@@ -1,0 +1,8 @@
+6     //seed value
+2     //min interval
+10   //max interval
+50   //impatient customer percentage
+5     //line length threshold
+8     //serving time mean
+2.5  //serving time standard deviation
+600 //closing time
