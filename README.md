@@ -1,5 +1,6 @@
 # RestaurantSimulation
+This project implemented a event-driven simulation of a fast food restaurant with important statistics calculated and output after the simulation.
 
-## Dependencies
-
-## Usage
+## Contact
+Zhou Zhang\
+Email: joezhang@umich.edu
